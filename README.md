@@ -20,6 +20,9 @@ GPIO used:
   PIN 19 --> 5V
   PIN 50 --> GND
   PIN 28 --> GPIO4 
+
+
+
 ![](imgs/connection-medium.png)
 
 2. Compile and load the example.
