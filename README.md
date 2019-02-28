@@ -6,7 +6,7 @@ Based on example found on esp-idf repo in this [link](https://github.com/espress
 
 Used a TTGO ESP32 board from WeMos
 
-![](imgs/sensorAndTTGO.jpg)
+![](imgs/sensorAndTTGO-medium.jpg)
 
 GPIO used:
 
@@ -20,7 +20,7 @@ GPIO used:
   PIN 19 --> 5V
   PIN 50 --> GND
   PIN 28 --> GPIO4 
-  ![](imgs/connection.png)
+![](imgs/connection-medium.png)
 
 2. Compile and load the example.
 
