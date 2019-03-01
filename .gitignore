@@ -15,7 +15,7 @@ output.txt
 *.o
 *.obj
 *.dSYM/
-main
+build
 
 # Precompiled Headers
 *.gch
